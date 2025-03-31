@@ -1,2 +1,2 @@
-// import { Sprite, SpriteManager } from './sprite';
-// export { Sprite, SpriteManager };
+import { Sprite, SpriteManager } from './sprite';
+export { Sprite, SpriteManager };
